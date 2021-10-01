@@ -1,5 +1,8 @@
 In this practice let's build a **Layout Builder App** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mklayoutbuild.ccbp.tech/
+
 ### Refer to the image below:
 
 <br/>
